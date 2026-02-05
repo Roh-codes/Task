@@ -2,7 +2,7 @@ import { AppBar, Toolbar, Button, Typography } from "@mui/material";
 import { Link } from "react-router-dom";
 
 function Navbar() {
-  console.log("🧭 Navbar rendered");
+  console.log("🧭 Navbar renderedddddd");
 
   return (
     <AppBar position="static">
