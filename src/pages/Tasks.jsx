@@ -5,7 +5,7 @@ import AddTaskDialog from "../components/AddTaskDialog";
 import { Grid, Typography, Button } from "@mui/material";
 
 function Tasks() {
-  console.log("📋 Tasks page rendered");
+  console.log("📋 Tasks page rendered....");
 
   const { tasks } = useContext(TaskContext);
   const [open, setOpen] = useState(false);
