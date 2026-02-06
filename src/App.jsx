@@ -5,7 +5,7 @@ import Tasks from "./pages/Tasks";
 import { TaskProvider } from "./context/TaskContext";
 
 function App() {
-  console.log("🚀 App component loa");
+  console.log("🚀 App component loaaa");
 
   return (
     // Global task state provider
